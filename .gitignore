@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE stuff:
+.idea/
+.project/
+.tags*
+
+# Django stuff:
+project/settings/custom.py
+media/
+logs/
+
+
+#virtualenv
+.env/
+/datadir/
